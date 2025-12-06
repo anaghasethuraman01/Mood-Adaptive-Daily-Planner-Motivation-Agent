@@ -10,7 +10,7 @@ Agents are an ideal solution to this problem because they can interact dynamical
 
 ## 🎯 **Goal**
 #### Architecture
-<img width="566" height="807" alt="Screenshot 2025-11-29 at 11 42 13 PM" src="https://github.com/user-attachments/assets/3233f755-b58e-4ad1-8c64-e9230491163c" />
+<img width="566" height="807" alt="Screenshot 2025-11-29 at 11 42 13 PM" src="https://github.com/user-attachments/assets/08ad80d1-3172-4722-a7ec-be1c2544ce3c" />
 
 ## ⭐ **Demo** 
 
