@@ -3,6 +3,10 @@
  ## 📌  **Problem Statement** 
 People often feel overwhelmed, low-energy, or unmotivated and waste time deciding what to do each day. This leads to stress, low productivity, and missed self-care. Solving this is important because a small daily boost through personalized motivation, structured planning, and short well-being activities can improve mood, productivity, and overall mental wellness. 
 
+## 🤖 **Why agents?** 
+Agents are an ideal solution to this problem because they can interact dynamically with users, adapt to inputs like mood and energy, and generate personalized outputs (motivation messages, daily plans, micro-activities) in real time. Unlike static tools, agents can prioritize tasks, respond to changing contexts, and provide a more human-like, helpful experience.
+
+#### Watch on Youtube : [Adaptive AI Task Planner Based on Mood & Energy](https://youtu.be/mtae2pMocvU) 
 
 ## 🎯 **Goal**
 #### Architecture
