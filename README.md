@@ -6,7 +6,10 @@ People often feel overwhelmed, low-energy, or unmotivated and waste time decidin
 ## 🤖 **Why agents?** 
 Agents are an ideal solution to this problem because they can interact dynamically with users, adapt to inputs like mood and energy, and generate personalized outputs (motivation messages, daily plans, micro-activities) in real time. Unlike static tools, agents can prioritize tasks, respond to changing contexts, and provide a more human-like, helpful experience.
 
-#### Watch on Youtube : [Adaptive AI Task Planner Based on Mood & Energy](https://youtu.be/mtae2pMocvU) 
+## ⭐ **Demo Videos** 
+#### [Application Demo](https://youtu.be/K9xMxONurDM)
+#### [Adaptive AI Taks Planner Explanation](https://youtu.be/fbmRgIPS3Mo)
+####  [Adaptive AI Task Planner Based on Mood & Energy](https://youtu.be/mtae2pMocvU) 
 
 ## 🎯 **Goal**
 #### Architecture
@@ -14,7 +17,6 @@ Agents are an ideal solution to this problem because they can interact dynamical
 
 ## ⭐ **Demo** 
 
-#### Watch on Youtube :  [Adaptive AI Taks Planner Demo](https://youtu.be/fbmRgIPS3Mo)
 #### Example Input
 ```
 Mood: lazy
