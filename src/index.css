@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-inter: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-outfit: 'Outfit', system-ui, -apple-system, sans-serif;
+  --bg-gradient: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #312e81 100%);
+}
+
+@layer base {
+  body {
+    @apply antialiased text-slate-200;
+    font-family: var(--font-inter);
+    background: var(--bg-gradient);
+    min-height: 100vh;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-outfit);
+  }
+}
+
+.glass-card {
+  @apply bg-white/10 backdrop-blur-xl border border-white/20 rounded-2xl shadow-2xl;
+}
+
+.glass-input {
+  @apply bg-white/10 border border-white/20 rounded-xl px-4 py-2 text-white placeholder-white/50 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all;
+}
+
+.premium-button {
+  @apply bg-gradient-to-r from-indigo-500 to-purple-500 hover:from-indigo-600 hover:to-purple-600 text-white font-semibold py-3 px-6 rounded-xl shadow-lg transform hover:scale-105 active:scale-95 transition-all;
+}
+
+.mood-tag {
+  @apply px-3 py-1 rounded-full text-sm font-medium border border-white/10 hover:bg-white/20 transition-colors cursor-pointer;
+}
+
+.mood-tag.selected {
+  @apply bg-indigo-500 border-indigo-400;
+}
