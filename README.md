@@ -54,6 +54,8 @@ Goals: work, car wash
 -  Gemini 2.5 Flash / Gemini Flash Lite
 -  Kaggle Notebooks
 -  JSON for structured outputs
+-  Google Antigravity (UI Generation)
+-  InsForge (Backend-as-a-Service, Auth, DB)
 
 #### 🧠 Core components:
 
